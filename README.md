@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## 关于启航
 
-You can use the [editor on GitHub](https://github.com/QH-edu/QH-edu.GITHUB.IO/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+​	兰州启航教育研究中心致力于初、高中教育科目的教学研究和推广。经过全体教职员工多年坚持不懈的努力，已发展成为兰州市最大的初高中教育研究与培训机构，现已形成完整的中学课程教研体系和培训流程，在广大考生和家长中树立了良好的口碑和形象。  　　
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+​       数年的教学实践，形成了启航教育独有的全生态学习模型。兰州启航教育成为许多热爱教育、献身教育事业的教师施展才华、实现梦想的平台。多年的口耳相传也让更多学子运用该系统进行学习，成绩斐然。全生态学习流程，让学习变得更高效。兰州启航学员学习成绩的提高，更多是良好学习习惯的自然体现，是自我学习能力提升的体现，这种进步才是真正的进步。
 
-### Markdown
+  　　兰州启航教育特别注重学习和教研，在平时的业务学习中，教师积极主动地研究专业知识，学习授课技能，探讨管理经验。兰州启航教育努力整合基础教育优质资源，传播先进教育理念，探索适合我国基础教育培训的先进模式，让广大师生受益。 　
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+​     　我们真诚欢迎各位家长、同学、同仁到茆式教育交流。 
 
-```markdown
-Syntax highlighted code block
+## 联系方式
 
-# Header 1
-## Header 2
-### Header 3
+- 教学点 ：兰州市城关区民主西路蓝宝石大厦220A 
+- 电话 ：138 0931 1548（向老师）
+- QQ ：475566694
+- 微信号 ： 138 0931 1548 （向老师）
+- 二维码：
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QH-edu/QH-edu.GITHUB.IO/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![matrix-code](images/matrix-code.png =50*50)
