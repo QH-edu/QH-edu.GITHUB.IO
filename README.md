@@ -16,4 +16,4 @@
 - 微信号 ： 138 0931 1548 （向老师）
 - 二维码：
 
-![matrix-code](images/matrix-code.png =50*50)
+![matrix-code](images/matrix-code.png)
