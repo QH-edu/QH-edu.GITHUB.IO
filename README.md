@@ -15,5 +15,4 @@
 - QQ ：475566694
 - 微信号 ： 138 0931 1548 （向老师）
 - 二维码：
-
 ![matrix-code](images/matrix-code.png)
